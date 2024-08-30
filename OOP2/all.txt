@@ -1,0 +1,4 @@
+apple:: 3
+banana:: 2
+grapes\: 7
+orange:: 5
